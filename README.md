@@ -1,2 +1,3 @@
 # gobananas
-A POC into running gRPC Go services in GKE
+
+A POC into running RPC Go services on GKE
